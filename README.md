@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd your-repo-name
+   cd .\Calculator\
    ```
 
 3. **Open the Project**:
