@@ -13,7 +13,7 @@ A simple, responsive web-based calculator built with HTML, CSS, and JavaScript. 
 
 ## Demo
 
-Try the calculator live 
+Try the calculator live https://calculator-seven-beta-64.vercel.app/
 
 ## Installation
 
